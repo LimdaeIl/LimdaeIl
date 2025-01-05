@@ -12,15 +12,15 @@ And I am very interested in understanding the direction of the business and opti
 
 ### **Reading Log📖**
 > "Memory is the fabric that shapes us. </br>
- Everything we have loved, lost, and kept comes together to create who we are today." By R. M. Drake
+ Everything we have loved, lost, and kept comes together to create who we are today." By. R. M. Drake
 
 
 ### **Lecture Log👩🏻‍💻**
 > "Studying, though it takes time, is the most valuable effort you can invest in yourself. </br>
-Step by step, as you build your learning each day, it will one day lead you to extraordinary places." By Robin Sharma
+Step by step, as you build your learning each day, it will one day lead you to extraordinary places." By. Robin Sharma
 
 
 ### **Solve log🗝️**
 > "Deep thinking is the key to solving the world's problems. 
-Striving not to remain on the surface but to grasp the essence of things truly liberates humanity." By Ralph Waldo Emerson
+Striving not to remain on the surface but to grasp the essence of things truly liberates humanity." By. Ralph Waldo Emerson
 
