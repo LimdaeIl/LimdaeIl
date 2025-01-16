@@ -30,6 +30,15 @@ And I am very interested in understanding the direction of the business and opti
 
 
 
+| [**Do it! 자바 프로그래밍 입문**](https://limdae94.tistory.com/130) | **Do it! HTML+CSS+<br />자바스크립트 웹 표준의 정석**        | **Do it! 자바스크립트+<br />제이쿼리 입문**                  | Do it! 리액트로 웹앱 <br />만들기 with 타입스크립트          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="https://limdae94.tistory.com/130"><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163036654.jpg" alt="profile" width="220" height="260"></a> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163036227.jpg" alt="profile" width="220" height="260"> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163036623.jpg" alt="profile" width="220" height="260"> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791163035640.jpg" width="220" height="260"> |
+| <div align="center">  <img src="https://img.shields.io/badge/easyspub-박은종-ffffff?style=for-the-social&logo=bookstack&logoColor=green"/></div> | <div align="center">  <img src="https://img.shields.io/badge/easyspub-고경희-ffffff?style=for-the-social&logo=bookstack&logoColor=green"/></div> | <div align="center">  <img src="https://img.shields.io/badge/easyspub-정인용-ffffff?style=for-the-social&logo=bookstack&logoColor=green"/></div> | <div align="center">  <img src="https://img.shields.io/badge/easyspub-전예홍-ffffff?style=for-the-social&logo=bookstack&logoColor=green"/></div> |
+| <div align="center"><img src="https://img.shields.io/badge/2025.01-1-181717?style=for-the-social&logo=Snowflake&logoColor=white"/></div> | <div align="center">**진행 예정**</div>                      | <div align="center">**진행 예정**</div>                      | <div align="center">**진행 예정**</div>                      |
+
+
+
+
 ### **Lecture Log👩🏻‍💻**
 > "Studying, though it takes time, is the most valuable effort you can invest in yourself. </br>
 Step by step, as you build your learning each day, it will one day lead you to extraordinary places." By. Robin Sharma
