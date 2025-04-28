@@ -17,12 +17,12 @@ And I am very interested in understanding the direction of the business and opti
 > "Memory is the fabric that shapes us. </br>
 >  Everything we have loved, lost, and kept comes together to create who we are today." By. R. M. Drake
 
-| index | Book                                                       | Author         | Publisher                 | category              | read At |
-| ----- | ---------------------------------------------------------- | -------------- | ------------------------- | --------------------- | ------- |
-| 1     | 개발자를 위한 레디스                                       | 김가림         | `에이콘`                  | `Redis`               | 2025.05 |
-| 2     | 도메인 주도 개발 시작하기: DDD 핵심 개념 정리부터 구현까지 | 최범균         | `한빛미디어`              | `DDD`, `Architecture` | 2025.05 |
-| 3     | 카프카 핵심 가이드                                         | 그웬 샤피라 외 | `제이펍`, `O'Reilly `     | `Kafka`               | 2025.05 |
-| 4     | 함수형 프로그래밍 with 자바                                | 벤 바이디히 외 | `한빛미디어`, `O'Reilly ` | `Java`                | 2025.05 |
+| index | Book                                                         | Author         | Publisher                 | category              | read At |
+| ----- | ------------------------------------------------------------ | -------------- | ------------------------- | --------------------- | ------- |
+| 1     | 개발자를 위한 레디스                                         | 김가림         | `에이콘`                  | `Redis`               | 2025.05 |
+| 2     | 도메인 주도 개발 시작하기: <br />DDD 핵심 개념 정리부터 구현까지 | 최범균         | `한빛미디어`              | `DDD`, `Architecture` | 2025.05 |
+| 3     | 카프카 핵심 가이드                                           | 그웬 샤피라 외 | `제이펍`, `O'Reilly `     | `Kafka`               | 2025.05 |
+| 4     | 함수형 프로그래밍 with 자바                                  | 벤 바이디히 외 | `한빛미디어`, `O'Reilly ` | `Java`                | 2025.05 |
 
 
 
