@@ -17,12 +17,14 @@ And I am very interested in understanding the direction of the business and opti
 > "Memory is the fabric that shapes us. </br>
 > Everything we have loved, lost, and kept comes together to create who we are today." By. R. M. Drake
 
-| index | Book                        | Author         | Publisher                 | read At |
-| ----- | --------------------------- | -------------- | ------------------------- | ------- |
-| 1     | 개발자를 위한 레디스        | 김가림         | `에이콘`                  | 2025.05 |
-| 2     | 도메인 주도 개발 시작하기   | 최범균         | `한빛미디어`              | 2025.05 |
-| 3     | 카프카 핵심 가이드          | 그웬 샤피라 외 | `제이펍`, `O'Reilly `     | 2025.05 |
-| 4     | 함수형 프로그래밍 with 자바 | 벤 바이디히 외 | `한빛미디어`, `O'Reilly ` | 2025.05 |
+| index | Book                                 | Author         | Publisher                 | read At |
+| ----- | ------------------------------------ | -------------- | ------------------------- | ------- |
+| 1     | 개발자를 위한 레디스                 | 김가림         | `에이콘`                  | 2025.05 |
+| 2     | 도메인 주도 개발 시작하기            | 최범균         | `한빛미디어`              | 2025.05 |
+| 3     | 카프카 핵심 가이드                   | 그웬 샤피라 외 | `제이펍`, `O'Reilly `     | 2025.05 |
+| 4     | 함수형 프로그래밍 with 자바          | 벤 바이디히 외 | `한빛미디어`, `O'Reilly ` | 2025.05 |
+| 5     | 혼자 공부하는 컴퓨터 구조 + 운영체제 | 강민철         | `한빛미디어`              | 2025.05 |
+| 6     | 혼자 공부하는 네트워크               | 강민철         | `한빛미디어`              | 2025.05 |
 
 
 
