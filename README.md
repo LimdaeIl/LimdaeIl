@@ -54,7 +54,7 @@ And I am very interested in understanding the direction of the business and opti
 | 5     | 대규모 스트림 처리                                           | `null` | `내일배움캠프` | 2025.05 |
 | 6     | 모니터링 시스템 및 시큐어 코딩                               | `null` | `내일배움캠프` | 2025.05 |
 | 7     | 장애 대응                                                    | `null` | `내일배움캠프` | 2025.05 |
-| 8     | [김영한의 실전 자바 - 고급 1편, 멀티스레드와 동시성 20h:48m](https://velog.io/@optional94/series) | 김영한 | `Inflearn`     | 2025.05 |
+| 8     | [김영한의 실전 자바 - 고급 1편, 멀티스레드와 동시성](https://velog.io/@optional94/series) | 김영한 | `Inflearn`     | 2025.05 |
 
 
 
