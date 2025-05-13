@@ -13,7 +13,6 @@ And I am very interested in understanding the direction of the business and opti
 ### **Social🌐**
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-limdae94-orange?style=flat-square&logo=tistory&logoColor=white)](https://limdae94.tistory.com/)
-
 [![Velog Badge](https://img.shields.io/badge/Velog-optional94-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@optional94)
 
 
