@@ -35,7 +35,7 @@ And I am very interested in understanding the direction of the business and opti
 
 
 
-### **Problem Solving🗝️**
+### **Problem Solving Retrospect🗝️**
 
 | Index | Title                                                        | Write At |      |
 | ----- | ------------------------------------------------------------ | -------- | ---- |
