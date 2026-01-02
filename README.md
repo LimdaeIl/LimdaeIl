@@ -17,7 +17,7 @@
 
 ### **📚 Technical Reading & Book Reviews**
 
-| Index | Book                                                         | Publisher          | Read At   | CC.         |
+| Index | Content                                                         | Publisher          | Read At   | CC.         |
 | ----- | ------------------------------------------------------------ | ------------------ | --------- | ----------- |
 | 1     | [k6를 활용한 Redis와 Postgres 성능 테스트](https://www.canva.com/design/DAGijnHpTrk/C6Wds4rh1d2Kg1jVnizWHQ/edit?utm_content=DAGijnHpTrk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 내일배움캠프       | 2025.05   |             |
 | 2     | [트렌비의 성능 개선을 위한 5가지 이야기 정리](https://www.canva.com/design/DAGi_rvy6lw/tCMafud0RyM2nkueDB2rpA/edit?utm_content=DAGi_rvy6lw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 트렌비 기술 블로그 | 2025.05   |             |
