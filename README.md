@@ -12,7 +12,7 @@
   ![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?logo=hibernate&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-6DB33F.svg?logo=hibernate&logoColor=white)
   ![Spring%20Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?logo=springsecurity&logoColor=white)
-  ![OAuth2](https://img.shields.io/badge/OAuth2-6DB33F.svg?logo=shield&logoColor=white)
+  ![OAuth2](https://img.shields.io/badge/OAuth2-6DB33F.svg?logo=securityscorecard&logoColor=white)
   ![QueryDSL](https://img.shields.io/badge/QueryDSL-6DB33F.svg?logo=databricks&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)
