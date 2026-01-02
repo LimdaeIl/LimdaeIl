@@ -4,7 +4,7 @@
 
 ### **Tech  Stack**💻
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)
   ![WebSocket](https://img.shields.io/badge/WebSocket-6DB33F.svg?logo=socketdotio&logoColor=white)
   ![SSE](https://img.shields.io/badge/Server--Sent%20Events-6DB33F.svg?logo=cloudflare&logoColor=white)
   ![Cloud](https://img.shields.io/badge/Cloud-6DB33F.svg?logo=icloud&logoColor=white)
