@@ -2,7 +2,7 @@
 
 저는 현재 **백엔드 개발자**가 되기 위해 공부하는 중입니다.🚀 <br/>문제 해결을 위한 협력 그리고 비즈니스 방향에 따른 자원과 기능을 최적화하는 데 매우 관심이 많습니다.💜
 
-### **Tech  Stack**💻
+### **Experienced Tech  Stack**💻
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)
   ![WebSocket](https://img.shields.io/badge/WebSocket-6DB33F.svg?logo=socketdotio&logoColor=white)
@@ -30,6 +30,9 @@
 - ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?logo=githubcopilot&logoColor=white)
   [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?logo=codereview&logoColor=white)](https://www.coderabbit.ai/)
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 
 ### **✍️ Tech Blog & Learning Archive**
 
