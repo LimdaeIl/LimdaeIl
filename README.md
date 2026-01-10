@@ -42,7 +42,7 @@
 | 3     | [MySQL로 배우는 데이터베이스 개론과 실습](https://limdaeil.tistory.com/search/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4) | 한빛아카데미       | 2025.11   |             |
 | 4     | [마틴 파울러가 소개하는 소프트웨어 아키텍처](https://limdaeil.tistory.com/16) | O'Reilly Media     | 2025.11   |             |
 | 5     | [Do it! HTML+CSS 웹 표준의 정석](https://limdaeil.tistory.com/19) | 이지스퍼블리싱     | 2025.12   | 서평단 참여 |
-| 6     | [그림으로 이해하는 도커와 쿠버네티스](https://limdaeil.tistory.com/21)                          | 길벗               | - 2026.01 | 서평단 참여 |
+| 6     | [그림으로 이해하는 도커와 쿠버네티스](https://limdaeil.tistory.com/21)                          | 길벗               | 2026.01 | 서평단 참여 |
 
 
 
