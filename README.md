@@ -2,11 +2,12 @@
 
 저는 현재 **백엔드 개발자**가 되기 위해 공부하는 중입니다.🚀 <br/>문제 해결을 위한 협력 그리고 비즈니스 방향에 따른 자원과 기능을 최적화하는 데 매우 관심이 많습니다.💜
 
+- [❤️Resume](https://limdaeil.github.io/)
+
+
 ### **✍️ Tech Blog & Learning Archive**
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-limdae94-orange?style=flat-square&logo=tistory&logoColor=white)](https://limdaeil.tistory.com/)
-
-- [📄Resume](https://limdaeil.github.io/)
 
 ### **Experienced Tech  Stack**💻
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
