@@ -2,6 +2,8 @@
 
 저는 현재 **백엔드 개발자**가 되기 위해 공부하는 중입니다.🚀 <br/>문제 해결을 위한 협력 그리고 비즈니스 방향에 따른 자원과 기능을 최적화하는 데 매우 관심이 많습니다.💜
 
+- [📄Resume](https://limdaeil.github.io/)
+
 ### **Experienced Tech  Stack**💻
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)
