@@ -8,6 +8,8 @@
 ### **✍️ Tech Blog & Learning Archive**
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-limdae94-orange?style=flat-square&logo=tistory&logoColor=white)](https://limdaeil.tistory.com/)
+[![Notion Badge](https://img.shields.io/badge/Notion-LearningArchive-black?style=flat-square&logo=notion&logoColor=white)](https://optional94.notion.site/2b663f08977f80a4af71e6f102a0eb62)
+
 
 ### **Experienced Tech  Stack**💻
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
