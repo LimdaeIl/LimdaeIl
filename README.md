@@ -14,7 +14,7 @@
 
 ---
 
-### 📚Recent Reads & Course
+### 📚 읽은 책 & 강의
 | **index** | **title** | **author** | **publisher** | **readAt** |
 | --- | --- | --- | --- | --- |
 |  |  |  |  | **2026** |
@@ -30,7 +30,7 @@
 | 2 | [서평단: Do it! HTML+CSS 웹 표준의 정석](https://limdaeil.tistory.com/19) | 고경희 | 이지스퍼블리싱 | `2025.12` |
 | 1 | [MySQL로 배우는 데이터베이스 개론과 실습](https://limdaeil.tistory.com/search/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5%202%ED%8C%90) | 박우창 외 | 한빛아카데미 | `2025.11` |
 
-### ✎experience & reflection
+### ✎ 경험 & 회고
 | **publishedAt** | **title** | **Keyword** |
 | --- | --- | --- |
 | `2026.01` | [프론트엔드 로컬 환경에서 터진 CORS 해결](https://limdaeil.tistory.com/27) | `CORS`, `Spring Security` |
