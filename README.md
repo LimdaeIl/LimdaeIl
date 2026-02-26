@@ -27,7 +27,7 @@
 | 2 | [10분 만에 따라 하는 Claude MCP 업무 자동화 혁신 가이드](https://limdaeil.tistory.com/30) | 이호준 | 리코멘드 |  |
 | 1 | [서평단: 그림으로 이해하는 도커와 쿠버네티스](https://limdaeil.tistory.com/21) | 토쿠나가 코헤이 | 길벗 |  |
 |  |  |  |  | **2025** |
-| 2 | [서평활동: Do it! HTML+CSS 웹 표준의 정석](https://limdaeil.tistory.com/19) | 고경희 | 이지스퍼블리싱 | `2025.12` |
+| 2 | [서평단: Do it! HTML+CSS 웹 표준의 정석](https://limdaeil.tistory.com/19) | 고경희 | 이지스퍼블리싱 | `2025.12` |
 | 1 | [MySQL로 배우는 데이터베이스 개론과 실습](https://limdaeil.tistory.com/search/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5%202%ED%8C%90) | 박우창 외 | 한빛아카데미 | `2025.11` |
 
 ### ✎experience & reflection
