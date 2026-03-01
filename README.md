@@ -15,6 +15,8 @@
 ---
 
 ### 📚 읽은 책 & 강의
+> 인지적 번역을 통해 개념 모델을 만들고, 사고 체계 훈련으로 문제 해석 능력을 키운 뒤, 실제 경험이 연결될 때 지식이 견고해진다고 믿습니다.
+
 | **index** | **title** | **author** | **publisher** | **readAt** |
 | --- | --- | --- | --- | --- |
 |  |  |  |  | **2026** |
@@ -31,6 +33,8 @@
 | 1 | [MySQL로 배우는 데이터베이스 개론과 실습](https://limdaeil.tistory.com/search/MySQL%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%8A%B5%202%ED%8C%90) | 박우창 외 | 한빛아카데미 | `2025.11` |
 
 ### ✎ 경험 & 회고
+> 이론은 경험으로 검증되고, 경험은 회고로 승격되며, 성장은 해석의 질에서 결정된다고 믿습니다.
+ 
 | **publishedAt** | **title** | **Keyword** |
 | --- | --- | --- |
 | `2026.01` | [프론트엔드 로컬 환경에서 터진 CORS 해결](https://limdaeil.tistory.com/27) | `CORS`, `Spring Security` |
