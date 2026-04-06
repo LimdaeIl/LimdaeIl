@@ -20,7 +20,7 @@
 | **index** | **title** | **author** | **publisher** | **readAt** |
 | --- | --- | --- | --- | --- |
 |  |  |  |  | **2026** |
-| 8 | 한 입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지 | 이정환 | 인프런 |  |
+| 8 | [한 입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지](https://limdaeil.tistory.com/35) | 이정환 | 인프런 |  |
 | 7 | [서평단:소문난 명강의_ 소플의 처음 만난 리액트 3판](https://limdaeil.tistory.com/33) | 이인제 | 한빛미디어 |  |
 | 6 | FastAPI 실전편: JWT와 Redis로 완성하는 인증 시스템 | 제주코딩베이스캠프 외  | 인프런 |  |
 | 5 | FastAPI 찍어먹기 (FastAPI + React.js + AWS LightSail) | 개발크리에이터 | 인프런 |  |
